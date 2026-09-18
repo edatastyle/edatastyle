@@ -1,5 +1,3 @@
-# 👋 About Me
-
 Hi, I'm **Saiful Islam**, an independent developer with **10+ years of experience** in software and web development.
 
 I work with:
